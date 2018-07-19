@@ -1,6 +1,6 @@
 /*global describe, it*/
-function happyHoildays(string) {
-  return 'Happy holidays!'
+function shout(string) {
+  return string.upperCase()
 }
 describe('functions', () => {
   describe('happyHolidays', () => {
