@@ -1,5 +1,5 @@
 /*global describe, it*/
-function shout(string) {
+function happyHolidays(string) {
   return string.toUpperCase()
 }
 describe('functions', () => {
