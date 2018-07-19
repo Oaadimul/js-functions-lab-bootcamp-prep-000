@@ -1,6 +1,5 @@
 /*global describe, it*/
 function happyHolidays(string) {
-  return string.toUpperCase()
 }
 describe('functions', () => {
   describe('happyHolidays', () => {
